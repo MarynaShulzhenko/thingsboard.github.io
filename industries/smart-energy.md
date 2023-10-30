@@ -37,7 +37,7 @@ description:
 <div class="customer-block">
     <div class="customer-company">
         <img class="customer-logo" src="/images/customers/circutor.svg" alt="Circutor">
-        <a class="outlink" href="http://www.circutor.com/">Circutor</a>
+        <a class="outlink" href="https://circutor.com/">Circutor</a>
     </div>
     <div class="customer-content">
         <div class="person-container">
@@ -90,7 +90,7 @@ description:
 <div class="customer-block">
     <div class="customer-company">
         <img class="customer-logo" src="/images/customers/nettra.png" alt="Nettra">
-        <a class="outlink" href="http://www.nettra.tech/">Nettra</a>
+        <a class="outlink" href="https://nettra.tech/">Nettra</a>
     </div>
     <div class="customer-content">
         <div class="person-container">

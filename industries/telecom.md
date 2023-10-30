@@ -37,7 +37,7 @@ description:
 <div class="customer-block">
     <div class="customer-company">
         <img class="customer-logo" src="/images/customers/tmobile.png" alt="T-Mobile Czech Republic a.s.">
-        <a class="outlink" href="https://t-mobile.cz/"> T-Mobile Czech Republic a.s. </a>
+        <a class="outlink" href="https://www.t-mobile.cz/osobni"> T-Mobile Czech Republic a.s. </a>
     </div>
     <div class="customer-content">
         <div class="person-container">

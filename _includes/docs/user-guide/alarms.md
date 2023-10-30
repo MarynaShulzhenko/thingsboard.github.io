@@ -123,5 +123,5 @@ To send notification when alarm is created or cleared, please check this [doc](/
 
 ### How to query alarm using REST API? 
 
-ThingsBoard provides REST API to manage and query alarms. See demo environment [Alarm REST API](https://demo.thingsboard.io/swagger-ui.html#/alarm-controller) and general [REST API](/docs/{{docsPrefix}}reference/rest-api/) documentation for more details.
+ThingsBoard provides REST API to manage and query alarms. See demo environment [Alarm REST API](https://demo.thingsboard.io:443/swagger-ui/#/alarm-controller) and general [REST API](/docs/{{docsPrefix}}reference/rest-api/) documentation for more details.
 

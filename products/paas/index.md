@@ -12,7 +12,7 @@ description:
 		<a href="/industries/telecom/#tmobile"><object data="https://img.thingsboard.io/customers/clear/t-mobile.svg"></object></a>
 		<a href="https://www.bosch.com/"><object data="https://img.thingsboard.io/customers/clear/bosch.svg"></object></a>
 		<a href="https://www.prosegur.com/"><object data="https://img.thingsboard.io/customers/clear/prosegur.svg"></object></a>
-		<a href="http://www.engie.sk/en/kontakt"><object data="https://img.thingsboard.io/customers/clear/engie.svg"></object></a>
+		<a href="https://engie.sk/en/contacts/"><object data="https://img.thingsboard.io/customers/clear/engie.svg"></object></a>
 		<a href="/industries/smart-energy/#circutor"><object data="https://img.thingsboard.io/customers/clear/circutor.svg"></object></a>
 		<a href="/industries/telecom/#tektelic"><object data="https://img.thingsboard.io/customers/clear/tektelic.svg"></object></a>
 	</main>

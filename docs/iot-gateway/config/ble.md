@@ -88,7 +88,7 @@ YUM<br>%,%rpm%,%templates/iot-gateway/ble-requirements-rpm.md{% endcapture %}
 To understand how this connector works, we will describe how to connect device Xiaomi Mi Smart Temperature Humidity Sensor to ThingsBoard using gateway.
 We know following device parameters:
 Device **MAC address** - 4C:65:A8:DF:85:C0
-Default name characteristic id -  00002A00-0000-1000-8000-00805F9B34FB   - This is a default characteristic - we have got it ID from [GATT characeristics documentation](https://www.bluetooth.com/specifications/gatt/characteristics/)
+Default name characteristic id -  00002A00-0000-1000-8000-00805F9B34FB   - This is a default characteristic - we have got it ID from [GATT characeristics documentation](https://www.bluetooth.com/specifications/assigned-numbers/)
 Temperature characteristic id - 00002A00-0000-1000-8000-00805F9B34FB    - This is a custom characteristic - we have got it after scanning device characteristics. 
 
 Default configuration created for this device to process data from it, receive notifies and write some information.  
@@ -280,7 +280,7 @@ You can find more examples of data converting in section **"Examples of data con
 <br><br>
   
 {% capture bleGATTinfo %}
-Services and characteristics, from <a target="_blank" rel="noopener noreferrer" href="https://www.bluetooth.com/specifications/gatt/services/">GATT Specification</a> will also interpret as attributes of device and automatically loaded to ThingsBoard.
+Services and characteristics, from <a target="_blank" rel="noopener noreferrer" href="https://www.bluetooth.com/specifications/assigned-numbers/">GATT Specification</a> will also interpret as attributes of device and automatically loaded to ThingsBoard.
 {% endcapture %}
 {% include templates/info-banner.md content=bleGATTinfo %}
 

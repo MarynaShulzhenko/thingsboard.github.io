@@ -14,7 +14,7 @@ These are small text ﬁles, usually numbers and letters, that do not create a s
 Cookies allow us to:
 
  * Understand the behavior of visitors, measure the number of visits and page views using [Google Analytics](https://analytics.google.com/);
- * Improve load-balancing and page load speed using [Cloudflare](https://cloudflare.com).
+ * Improve load-balancing and page load speed using [Cloudflare](https://www.cloudflare.com/).
 
 These cookies are enabled by default on your web browser. 
 However, you may configure your browser to alert you each time cookies are created. It is also possible to prevent their installation. 
@@ -34,7 +34,7 @@ See Google Analytics privacy [page](https://policies.google.com/technologies/coo
 
 ### Cloudflare
 
-See Cloudflare documentation [page](https://developers.cloudflare.com/fundamentals/get-started/reference/cloudflare-cookies/) for more details.
+See Cloudflare documentation [page](https://developers.cloudflare.com/fundamentals/reference/policies-compliances/cloudflare-cookies/) for more details.
 
 ### Other Cookies
 

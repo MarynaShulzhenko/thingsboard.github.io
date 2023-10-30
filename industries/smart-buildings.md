@@ -198,7 +198,7 @@ description:
 <div class="customer-block">
     <div class="customer-company">
         <img class="customer-logo" src="/images/customers/tpssystems.png" alt="TOURISTIC PLATFORM SYSTEMS SRL">
-        <a class="outlink" href="https://tpsystems.it/">TOURISTIC PLATFORM SYSTEMS SRL</a>
+        <a class="outlink" href="https://www.tpsystems.it/">TOURISTIC PLATFORM SYSTEMS SRL</a>
     </div>
     <div class="customer-content">
         <div class="person-container">

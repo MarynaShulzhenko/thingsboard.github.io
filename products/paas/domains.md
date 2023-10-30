@@ -104,18 +104,18 @@ Once confirmed, the domain information and associated SSL certificate will be de
 
 The procedure of adding CNAME record to DNS database depending on your DNS service Provider. Below is the list of instructions for some popular DNS providers:
 
-* [Amazon Route 53](https://aws.amazon.com/premiumsupport/knowledge-center/route-53-create-alias-records/){:target="_blank"}
-* [GoDaddy](https://www.godaddy.com/help/add-a-cname-record-19236){:target="_blank"}
+* [Amazon Route 53](https://repost.aws/knowledge-center/route-53-create-alias-records){:target="_blank"}
+* [GoDaddy](https://ua.godaddy.com/help/dodati-zapis-cname-19236){:target="_blank"}
 * [Cloudflare](https://community.cloudflare.com/t/how-do-i-add-a-cname-record/59){:target="_blank"}
 * [ClouDNS](https://www.cloudns.net/wiki/article/13/){:target="_blank"}
 * [Google Cloud DNS](https://cloud.google.com/dns/docs/records){:target="_blank"}
-* [Name.com](https://www.name.com/support/articles/115004895548-Adding-a-CNAME-Record){:target="_blank"}
+* [Name.com](https://www.name.com/support/articles/115004895548-adding-a-cname-record){:target="_blank"}
 * [easyDNS](https://kb.easydns.com/knowledge/how-to-make-a-dns-entry/){:target="_blank"}
 * [DNSimple](https://support.dnsimple.com/articles/manage-cname-record/#adding-a-cname-record){:target="_blank"}  
 * [DNSMadeEasy](https://support.dnsmadeeasy.com/support/solutions/articles/47001001393-cname-record){:target="_blank"}
-* [No-IP.com](https://www.noip.com/support/knowledgebase/how-to-configure-your-no-ip-hostname/){:target="_blank"}
-* [Infoblox NIOS](https://docs.infoblox.com/display/BloxOneDDI/Creating+a+CNAME+Record){:target="_blank"}
-* [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain){:target="_blank"}
+* [No-IP.com](https://www.noip.com/support/knowledgebase/getting-started-with-no-ip-com){:target="_blank"}
+* [Infoblox NIOS](https://docs.infoblox.com/space/BloxOneDDI/186681830/Creating+a+CNAME+Record){:target="_blank"}
+* [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain/){:target="_blank"}
 
 If none of the above-listed DNS providers is one your are ordering service from, try to get this information on the provider's website or by contacting their support.
 

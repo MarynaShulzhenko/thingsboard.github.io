@@ -80,7 +80,7 @@ To install and get ODBC connector working several additional steps need to be do
 
 1. Install [Visual C++ Redistributable package](https://github.com/mkleehammer/pyodbc/wiki/Install#installing-on-windows) for Windows or [ODBC package](https://github.com/mkleehammer/pyodbc/wiki/Install#installing-on-linux) for Linux.
 2. Install ODBC driver(s) for database(s) the ThingsBoard gateway need to connect.
-3. Add data source in [ODBC Data source Administrator](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/open-the-odbc-data-source-administrator) on Windows or add driver information (name, library path etc.) to ODBC configuration file [odbcinst.ini](https://github.com/mkleehammer/pyodbc/wiki/Drivers-and-Driver-Managers#odbc-configuration-files-unix-only) on Unix systems. 
+3. Add data source in [ODBC Data source Administrator](https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/open-the-odbc-data-source-administrator?view=sql-server-ver16) on Windows or add driver information (name, library path etc.) to ODBC configuration file [odbcinst.ini](https://github.com/mkleehammer/pyodbc/wiki/Drivers-and-Driver-Managers#odbc-configuration-files-unix-only) on Unix systems. 
 
 ## Section "connection"
 This **mandatory** section provides information how to connect or reconnect to ODBC database.

@@ -24,7 +24,7 @@ At this moment the only info about the device are it's MAC address and character
 MAC Address - 4C:65:A8:DF:85:C0  
 
 Characteristics IDs:  
-00002A00-0000-1000-8000-00805F9B34FB - identifier of standard device name characteristic ([GATT Specification](https://www.bluetooth.com/specifications/gatt/services/))  
+00002A00-0000-1000-8000-00805F9B34FB - identifier of standard device name characteristic ([GATT Specification](https://www.bluetooth.com/specifications/assigned-numbers/))  
 226CAA55-6476-4566-7562-66734470666D - identifier of a custom temperature and humidity characteristic ([How to get characteristics list from BLE device](#how-to-get-characteristics-identifiers-list-from-ble-device))    
 
 ## Step 1. Required libraries
@@ -233,7 +233,7 @@ Characteristic - id: 00000014-0000-1000-8000-00805f9b34fb	name (if exists): Char
 
 Where:  
 id - characteristic identifier.  
-name (if exists) - Characteristic name, if it has description in a [GATT specification](https://www.bluetooth.com/specifications/gatt/services/).  
+name (if exists) - Characteristic name, if it has description in a [GATT specification](https://www.bluetooth.com/specifications/assigned-numbers/).  
 available methods - Characteristic supports methods.  
 
 Characteristic methods:  

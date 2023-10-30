@@ -78,7 +78,7 @@ Supervised algorithms require a labeled data for model training. It means that w
 segments contain anomalies. Based on this knowledge, an anomaly detection model will train to detect segments with anomalies automatically. 
 
 The most popular supervised classification algorithms are - Knn, SVM, Logistic Regression, Decision trees, RNN\LSTM. 
-Here is a good [**overview of those algorithms and how they work**](https://builtin.com/data-science/supervised-machine-learning-classification/){:target="_blank"}.
+Here is a good [**overview of those algorithms and how they work**](https://builtin.com/data-science/supervised-machine-learning-classification){:target="_blank"}.
 
 
 Despite the fact that these algorithms show good results, they have few important drawbacks:
